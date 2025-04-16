@@ -1,0 +1,7 @@
+1. How to implement a parser in Java to convert human-readable byte sizes like '10 MB' or '2.5 GB' into bytes?
+2. Create a utility class in Java that parses time durations like '5 min', '2 h', '30 s' into milliseconds.
+3. How to modify an ANTLR grammar file (Directives.g4) to include new tokens BYTE_SIZE and TIME_DURATION?
+4. Show me how to update GrammarBasedParser.java to support new parsing types like BYTE_SIZE and TIME_DURATION.
+5. How to write unit tests for parsing byte sizes and time durations in Java using JUnit?
+6. Edge cases to consider when parsing human-readable sizes like '0 KB', '1.5 GB', '1024MB', ' 5min '.
+7. Generate a PDF report with code snippets and summary of implementation using Python.
